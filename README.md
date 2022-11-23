@@ -1,2 +1,2 @@
 # My6103Work
-Hello, my name is Daniel Diaz, and I'm doing a class on Data Science and Data Mining. I am also learning about Git and Github, and I'm very excited to be here.
+Hello, my name is Daniel Diaz, and I recently graduated from an MS in Applied Economics program. I used this space to collaborate with peers on research projects, so feel free to look around and copy any code you may find useful.
